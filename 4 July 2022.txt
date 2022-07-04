@@ -1,3 +1,8 @@
 4/7/2022 Monday
 10 AM Meeting- Mahima & Nikhil
 Mahima told me to create dummy data on think7 signoff 
+Saw the videos regarding Company details & General Policy & some part of master data creation
+Created 4 customers & 4 suppliers
+Also 6 plants created
+6 machines created
+layout also created
