@@ -1,0 +1,6 @@
+18/7/2022 Monday
+Meeting time 2:30 PM Mahima,Nikhil
+She told find out error reason & solution for it for given text files
+Some customers prefer to use their own server for their data privacy
+Now they encountered some issues.On think7 server things going well
+So, we have to tell that issue is not from think7 but it is actually from their server
