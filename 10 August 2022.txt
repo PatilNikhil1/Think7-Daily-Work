@@ -1,0 +1,10 @@
+10/8/2022 Wednesday
+No meeting done
+She told at 3pm that eilfrid will explain some issues
+Issue was after creating work order it is not showing in ATM tool setup 
+Company was Akme Technologies 
+In support server i.e. southindia cloudapp azure, t7support,at,think7
+Eilfrid said when he tried it works but when i tried it didn't work
+Then he said first we have to close 1st wo then try with new one
+After that waited for 20 minutes refreshing but didn't show in ts
+Messaged her that it is not showing in ts
