@@ -1,0 +1,11 @@
+16/8/2022 Tuesday
+11:30 AM meeting Mahima, Nikhil
+Asked me to do weekly report process by screen sharing
+Told me how to mail all think7 members
+Hari told me how to insert values in ABI db for given excel sheet...Mahima also present on meeting
+She shared ABI db to install in sql server
+Also gave excel file 
+Told me to write queries i.e. change values in given code
+She shared code file
+Told me to complete 1 file for 85 excel data
+
