@@ -1,0 +1,8 @@
+19/8/2022 Friday
+No meeting today 
+She told me to work on issues what Tausif told
+I explained her what issue happening in some queries
+She asked if after changing is it inserted then send another script for this 
+After 6PM she send excel file of MPPL & told to write queries to delete tool and process
+I sent her queries immediately
+She told to change code and use id column to delete

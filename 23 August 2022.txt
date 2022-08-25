@@ -1,0 +1,8 @@
+23/8/2022 Tuesday
+Told me to change script in ABI 
+instead of 0 use 102 for raw material inspection id in notification table
+Also shared new ABI file to write queries 
+10:45 AM meeting Mahima, Nikhil
+Test case written and shared to her
+ABI file quries written and shared to her
+Remaining queries also changed and saved

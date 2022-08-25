@@ -1,0 +1,11 @@
+17/8/2022 Wednesday
+12:00 PM meeting Mahima, Nikhil
+Shared 1st file to her to check if correct
+again messaged her that change in file regarding date format 
+date format is mm:dd:yyyy and not dd:mm:yyyy
+Again she sent new DB & told to check and share list which raw material code doesn't exist
+She told to check code using like in sql
+Also told her if raw material code not exist we can't do only step 4 i.e. notification method table
+After 6pm she told me to send the scripts but there was correction in files
+She told that we have to do today only
+So worked on these...have to send scripts which have raw material code

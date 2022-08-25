@@ -1,0 +1,14 @@
+22/8/2022 Monday
+She told me bin file executed
+I shared ip address to work on weekly report
+She gave access
+After completing i asked her should i mail it
+Meeting was done at 11:45 AM 
+she told me to change values in excel because prrevious records were not matching
+previous week script run on Tuesday 
+so changes done and sent mail
+She gave me company email id
+Told to communicate via teams 
+Also told login in zoho but id was in use previously 
+So she told to logout
+Also told Ranjita to explain work flow issue & told me to write test cases on it
